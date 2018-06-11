@@ -1,0 +1,17 @@
+{
+  "name": "platzigram",
+  "version": "1.0.0",
+  "description": "comparte tus fotos",
+  "main": "server.js",
+  "keywords": [
+    "platzi",
+    "javascript",
+    "curso-definitivo",
+    "platzigram"
+  ],
+  "author": "cris",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
